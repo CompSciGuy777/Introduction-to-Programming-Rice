@@ -3,7 +3,7 @@
 
 #Geuss The Number Game:  
 In this game the user geusses a random number.  This was the introduction to methods.
-Try it here
+Try it here: http://www.codeskulptor.org/#user29_FPzxRnwmv2MHxms.py
 
 
 #Stopwatch: The Game:  
